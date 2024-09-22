@@ -20,4 +20,4 @@ Une application web qui permet aux utilisateurs de consulter la météo actuelle
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/WeatherApp.git
+   git clone https://github.com/melissate/WeatherApp.git
